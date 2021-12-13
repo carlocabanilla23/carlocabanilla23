@@ -5,9 +5,7 @@
  - 📫 How to reach me cabanillaj@spu.edu
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlocabanilla23&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlocabanilla23)](https://github.com/carlocabanilla23/github-readme-stats)
 
 <!---
 carlocabanilla23/carlocabanilla23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
